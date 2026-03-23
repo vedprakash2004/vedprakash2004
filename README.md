@@ -27,19 +27,18 @@
 ---
 
 ## 📊 GitHub Stats
-![Ved prkash GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ved prkash GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/vedprakash2004&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=your-https://github.com/vedprakash2004&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/ved-prakash-2709152b9/
 - GitHub: https://github.com/vedprakash2004
--->
 
 # 📌 Project Name
 
