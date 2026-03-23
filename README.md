@@ -8,7 +8,7 @@
 - 🌱 Currently learning: Python, Data Structures
 - 🔭 Working on: Beginner Projects
 - 🎯 Goal: Become a Software Developer
-- 📫 How to reach me: your-email@gmail.com
+- 📫 How to reach me: ved16102004@gmail.com
 
 ---
 
@@ -37,8 +37,8 @@
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/ved-prakash-2709152b9/
+- GitHub: https://github.com/vedprakash2004
 -->
 
 # 📌 Project Name
