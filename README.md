@@ -23,8 +23,6 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=your-https://github.com/vedprakash2004&theme=radical)
 
 ---
 
