@@ -18,13 +18,6 @@
 - Basic HTML & CSS
 
 
-## 📊 GitHub Stats
-![Ved prkash GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/vedprakash2004&show_icons=true&theme=radical)
-
----
-
-
----
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/ved-prakash-2709152b9/
