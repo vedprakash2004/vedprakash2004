@@ -113,6 +113,6 @@ Agentic_Personal-AI-Assistant
 
 👨‍💻 Author
 
-Ved prakash
+Ved praksh
 
 
